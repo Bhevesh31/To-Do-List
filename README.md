@@ -8,3 +8,5 @@ Features:-
       (3). Local Storage Support.
 
 Technologies used:- HTML, CSS, and JavaScript
+
+I will add a dark-mode toggle button later.
